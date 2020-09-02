@@ -11,3 +11,5 @@ Do the following:
 1. Using your terminal, add and commit the changes you've made to your repository
 
 1. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
+
+1. To finish, submit a link to the repository in your account on github to the assignment on BB. 
